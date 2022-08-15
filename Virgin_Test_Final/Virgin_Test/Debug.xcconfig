@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  Virgin_Test
+//
+//  Created by Chase on 15/08/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL_VM = 61e947967bc0550017bc61bf.mockapi.io/api/v1/
